@@ -2,7 +2,7 @@ import React from 'react'
 import Child from './child'
 
 
-const Parent=(props)=>{
+const Parent=()=>{
     return(
         <div>
             <Child />
