@@ -8,7 +8,7 @@ const Child=()=>{
     console.log(counterValue)
     return(
         <div>
-            <h1>this is first child</h1>  
+            <h1>this is first child which has been called </h1>  
             <h3>The Counter value is ={counterValue}</h3>  
         </div>
 
